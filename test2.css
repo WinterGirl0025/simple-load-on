@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    font-size: 62.5%;
+    background-color: #eff0f4;
+}
+
+p {
+    color: white;
+}
+
+.bar {
+    height: 4rem;
+    background-color: #5fc0cd;
+}
+
+.close-text {
+    font-size: 1rem;
+    position: absolute;
+    left: 5%;
+    top: 1.5rem;
+    margin: 0;
+}
+
+.loadon-text {
+    font-size: 1.5rem;
+    position: absolute;
+    left: 45%;
+    top: 1.3rem;
+    margin: 0;
+}
+
+.little-text {
+    font-size: 1rem;
+    position: absolute;
+    right: 5%;
+    top: 1.5rem;
+    margin: 0;
+}
+
+.part-yourmessage {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.container-input {
+    background-color: white;
+    height: 2rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    position: relative;
+}
+
+.img-need{
+    width: 1rem;
+    margin-left: 0.5rem;
+    margin-top: 0.3rem;
+}
+
+input{
+    height: 2rem;
+    position: absolute;
+    left: 2rem;
+    top:0;
+    width: 90%;
+    border:0;
+    padding: 0;
+}
+
+input:focus{
+    outline: none;
+}
+
+.loadon-btn {
+    height: 2rem;
+    line-height: 2rem;
+    background-color: #5fc0cd;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.find-code {
+    margin-top: 0.2rem;
+    font-size: 0.7rem;
+    color: #5fc0cd;
+    float: right;
+}
